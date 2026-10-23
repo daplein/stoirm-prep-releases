@@ -34,8 +34,8 @@ To update, download the latest version and install it over the old one. Your set
 - **Storm checklist** with before and after items, emoji, progress ring, and items you can put away for the season. "Grand job! All set 🎉" when it's done.
 - **Reminders** 6 h and 2 h before the peak while items are still open.
 - **Quiet hours** (22:00–07:00 by default): only Status Red comes through at night. Can be switched off.
-- **The screen matches the weather:** animated rain, clouds, sun or stars. It stops by itself when Battery Saver is on.
-- **Try the weather:** preview the app as a red storm, a sunny day, a clear night and more.
+- **The screen matches the weather:** rain from drizzle to downpour, snow, frost, fog, thunder, sun rays or stars, picked from Met Éireann's own forecast. It stops by itself when Battery Saver is on.
+- **Try the weather:** preview the app as a red storm, a snow day, a frosty night, fog, a hot sunny day and more.
 
 ## Privacy
 
