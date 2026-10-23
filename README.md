@@ -25,6 +25,10 @@ All versions and release notes: [Releases](https://github.com/daplein/stoirm-pre
 4. If Google Play Protect warns about an unknown app, tap **More details → Install anyway**. That's expected: the app isn't from the Play Store.
 5. Open Stoirm Prep and set your home: type your **Eircode**, or tap **Use my current location** while you're at home.
 
+### Share it with the family (optional)
+1. **First phone:** Settings → **Family** → your name → **Create family**. Allow "nearby devices" when asked: that's how phones find each other on your Wi-Fi.
+2. **Every other phone:** install, then Settings → **Family** → your name → **Scan to join**, and scan the QR from **Add a phone** on the first phone. Joining takes on the family's list and home.
+
 To update, download the latest version and install it over the old one. Your settings and checklist are kept.
 
 ## What it does
@@ -32,6 +36,7 @@ To update, download the latest version and install it over the old one. Your set
 - **Your own storm line:** an alert when forecast gusts cross your threshold within the next 24 hours (both adjustable).
 - **Met Éireann warnings** for your county, in their own Yellow / Orange / Red colours. Switch off types you don't care about.
 - **Storm checklist** with before and after items, emoji, progress ring, and items you can put away for the season. "Grand job! All set 🎉" when it's done.
+- **Family sync:** one shared checklist, with who ticked what, synced directly between your phones over home Wi-Fi.
 - **Reminders** 6 h and 2 h before the peak while items are still open.
 - **Quiet hours** (22:00–07:00 by default): only Status Red comes through at night. Can be switched off.
 - **The screen matches the weather:** rain from drizzle to downpour, snow, frost, fog, thunder, sun rays or stars, picked from Met Éireann's own forecast. It stops by itself when Battery Saver is on.
@@ -41,8 +46,9 @@ To update, download the latest version and install it over the old one. Your set
 
 - No account, no sign-in, no ads, no tracking, no analytics.
 - No server: each phone fetches the forecast directly from Met Éireann.
+- Family sync goes **directly between your phones on your home Wi-Fi**, encrypted with a key that exists only in your family's QR code and phones. Nothing goes through the internet.
 - Your home location is stored **only on your phone**. Location is read once, when you tap the button, never in the background.
-- Permissions: internet (forecast), location (only when you ask), notifications (alerts).
+- Permissions: internet (forecast), location (only when you ask), notifications (alerts), nearby devices / local network (only for family sync).
 
 ## Data: thank you, Met Éireann 🙏
 
