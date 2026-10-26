@@ -13,7 +13,11 @@ Stoirm Prep is a small Android app made for a family in Co. Wicklow, Ireland. It
 
 ## Download
 
-**[⬇️ Download the latest version](https://github.com/daplein/stoirm-prep-releases/releases/latest/download/StoirmPrep.apk)** (Android 13 or newer)
+**[📲 Install Stoirm Prep](https://daplein.github.io/apps/stoirm-prep/)** (Android 13 or newer): open that page on your phone and tap *Download for Android*. Or scan this with the phone's camera:
+
+<img src="https://daplein.github.io/apps/stoirm-prep/qr.svg" alt="QR code for the install page" width="180">
+
+To pass it on, tap **Share** at the top of the app's home screen: someone scans the code, or tap **Send link** to send it in a chat.
 
 All versions and release notes: [Releases](https://github.com/daplein/stoirm-prep-releases/releases)
 
@@ -32,9 +36,9 @@ All versions and release notes: [Releases](https://github.com/daplein/stoirm-pre
 
 ## Install (about a minute)
 
-1. Open the download link above **on your Android phone**.
-2. When Chrome asks, allow it to **install unknown apps** (one time only).
-3. Tap the downloaded file and **Install**.
+1. Open the [install page](https://daplein.github.io/apps/stoirm-prep/) **on your Android phone** and tap **Download for Android**.
+2. When Chrome asks **File might be harmful**, tap **Download anyway** (it asks that for every app that isn't from the Play Store). Keep the page open until it asks.
+3. Tap **Open**. When Android asks, allow Chrome to **install unknown apps** (one time only), then tap **Install**.
 4. If Google Play Protect warns about an unknown app, tap **More details → Install anyway**. That's expected: the app isn't from the Play Store.
 5. Open Stoirm Prep and set your home: type your **Eircode**, or tap **Use my current location** while you're at home.
 
@@ -42,7 +46,7 @@ All versions and release notes: [Releases](https://github.com/daplein/stoirm-pre
 1. **First phone:** Settings → **Family** → your name → **Create family**. Allow "nearby devices" when asked: that's how phones find each other on your Wi-Fi.
 2. **Every other phone:** install, then Settings → **Family** → your name → **Scan to join**, and scan the QR from **Add a phone** on the first phone. Joining takes on the family's list and home.
 
-To update, download the latest version and install it over the old one. Your settings and checklist are kept.
+When a new version is out, a yellow banner on the home screen says so: tap it, download and install over the old one. Your settings and checklist are kept.
 
 ## What it does
 
@@ -58,10 +62,10 @@ To update, download the latest version and install it over the old one. Your set
 ## Privacy
 
 - No account, no sign-in, no ads, no tracking, no analytics.
-- No server: each phone fetches the forecast directly from Met Éireann.
+- No server: each phone fetches the forecast directly from Met Éireann, and asks [daplein.github.io](https://daplein.github.io/apps/stoirm-prep/latest.json) once per launch whether a newer version is out (nothing is sent).
 - Family sync goes **directly between your phones on your home Wi-Fi**, encrypted with a key that exists only in your family's QR code and phones. Nothing goes through the internet.
 - Your home location is stored **only on your phone**. Location is read once, when you tap the button, never in the background.
-- Permissions: internet (forecast), location (only when you ask), notifications (alerts), nearby devices / local network (only for family sync).
+- Permissions: internet (forecast, new-version check), location (only when you ask), notifications (alerts), nearby devices / local network (only for family sync).
 
 ## Data: thank you, Met Éireann 🙏
 
