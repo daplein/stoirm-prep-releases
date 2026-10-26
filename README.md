@@ -26,7 +26,8 @@ All versions and release notes: [Releases](https://github.com/daplein/stoirm-pre
 <!-- versions:start -->
 | Version | Released (Irish time) | What's new | |
 |---|---|---|---|
-| [0.4.1-alpha](https://github.com/daplein/stoirm-prep-releases/releases/tag/v0.4.1-alpha) **(latest)** | Fri 23 Oct 2026, 12:26 | The sky now shows the weather outside right now. ☀️💨 | [⬇️ APK](https://github.com/daplein/stoirm-prep-releases/releases/download/v0.4.1-alpha/StoirmPrep.apk) |
+| [0.5.0-alpha](https://github.com/daplein/stoirm-prep-releases/releases/tag/v0.5.0-alpha) **(latest)** | Mon 26 Oct 2026, 10:46 | Share Stoirm Prep with the family: tap **Share** at the top of the home screen and let them scan the code, or tap **Send link** to send it in a chat. 📲 | [⬇️ APK](https://github.com/daplein/stoirm-prep-releases/releases/download/v0.5.0-alpha/StoirmPrep.apk) |
+| [0.4.1-alpha](https://github.com/daplein/stoirm-prep-releases/releases/tag/v0.4.1-alpha) | Fri 23 Oct 2026, 12:26 | The sky now shows the weather outside right now. ☀️💨 | [⬇️ APK](https://github.com/daplein/stoirm-prep-releases/releases/download/v0.4.1-alpha/StoirmPrep.apk) |
 | [0.4.0-alpha](https://github.com/daplein/stoirm-prep-releases/releases/tag/v0.4.0-alpha) | Fri 23 Oct 2026, 12:10 | Family sync is here. 👨‍👩‍👧 One checklist for the whole house. | [⬇️ APK](https://github.com/daplein/stoirm-prep-releases/releases/download/v0.4.0-alpha/StoirmPrep.apk) |
 | [0.3.1-alpha](https://github.com/daplein/stoirm-prep-releases/releases/tag/v0.3.1-alpha) | Fri 23 Oct 2026, 11:55 | Windy days finally look windy. 💨 | [⬇️ APK](https://github.com/daplein/stoirm-prep-releases/releases/download/v0.3.1-alpha/StoirmPrep.apk) |
 | [0.3.0-alpha](https://github.com/daplein/stoirm-prep-releases/releases/tag/v0.3.0-alpha) | Fri 23 Oct 2026, 11:49 | The checklist now knows what kind of day it is. 📋 | [⬇️ APK](https://github.com/daplein/stoirm-prep-releases/releases/download/v0.3.0-alpha/StoirmPrep.apk) |
